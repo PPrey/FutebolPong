@@ -3,7 +3,7 @@ import pygame
 pygame.init()
 
 window = pygame.display.set_mode([1280, 720])
-title = pygame.display.set_caption("Futeball Pong")
+title = pygame.display.set_caption("Futebol Pong")
 
 score1 = 0
 score1_img = pygame.image.load("assets/score/0.png")
