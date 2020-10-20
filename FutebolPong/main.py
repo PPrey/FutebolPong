@@ -5,7 +5,7 @@ pygame.init()
 window = pygame.display.set_mode([1280, 720])
 title = pygame.display.set_caption("Futeball Pong")
 
-score1 = 7
+score1 = 0
 score1_img = pygame.image.load("assets/score/0.png")
 score2 = 0
 score2_img = pygame.image.load("assets/score/0.png")
